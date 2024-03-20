@@ -1,4 +1,4 @@
-FROM dutchcoders/transfer.sh:latest-noroot
+FROM dutchcoders/transfer.sh:latest
 
 ENV BASEDIR=/tmp/
 
